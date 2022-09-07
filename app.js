@@ -219,15 +219,15 @@
 // }
 
 //                                17?
-let a = 35534;
-let s = a%10;
-let c = Math.trunc(a/10000)%10;
-let b = Math.trunc(a/1000)%10;
-let l = Math.trunc(a/100)%10;
-let r = Math.trunc(a/10)%10;
-if ((s)%2==1??c%2==1) {
-    console.log(s+c);
-}
+// let a = 35534;
+// let s = a%10;
+// let c = Math.trunc(a/10000)%10;
+// let b = Math.trunc(a/1000)%10;
+// let l = Math.trunc(a/100)%10;
+// let r = Math.trunc(a/10)%10;
+// if ((s)%2==1??c%2==1) {
+//     console.log(s+c);
+// }
 
 //                                18
 // let a = 585;
